@@ -1,6 +1,9 @@
 theme: jekyll-theme-minimal
 title: Erdi's blog
-description: Bookmark this to keep an eye on my project updates!
+description: >
+    My description
+    <br><br>
+    <a href="your_website">website</a>
 layout: page
 owner:
   name: Ted Laderas
