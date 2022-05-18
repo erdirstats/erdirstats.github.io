@@ -1,4 +1,11 @@
 theme: jekyll-theme-minimal
-title: Erdi's homepage
+title: Erdi's blog
 description: Bookmark this to keep an eye on my project updates!
 layout: post
+owner:
+  name: Ted Laderas
+  bio: "This is a sample Jekyll academic website."
+  email: laderast@ohsu.edu
+  twitter: laderast
+  linkedin: #username
+  github: laderast
