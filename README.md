@@ -17,6 +17,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
+
 - Bulleted
 - List
 
