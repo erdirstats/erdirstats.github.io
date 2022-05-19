@@ -1,14 +1,7 @@
 theme: jekyll-theme-minimal
-title: Erdi
+title: 
 description: >
     My description
     <br><br>
     <a href="your_website">website</a>
 layout: page
-owner:
-  name: Erdi Myftaraga
-  bio: "This is a sample Jekyll academic website."
-  email: erdi.eng@gmail.com
-  twitter: erdirstats
-  linkedin: erdi-myftaraga
-  github: erdirstats
