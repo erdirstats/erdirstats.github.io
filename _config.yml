@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: <p style="color:#2F2F2F; font-size:16px; font-weight:900;">ERDI MYFTARAGA</p>
 description: >
-    My description ggg
-    <br><br>
+    <p style="color:#2F2F2F">Geotechnical engineer at Green Geotechnics, based in Tirana and working in marine geotechnics projects</p>
+    <br>
     <a href="your_website">website</a>
 layout: page
