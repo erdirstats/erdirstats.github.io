@@ -12,7 +12,7 @@ _2020-01-08_
 _2021-04-26_  
 > The following is a short post on predicting small-strain stiffness properties from CPTU measurements by ensembling several machine learning (ML) models. More specifically, we are going to predict the value of the shear modulus at small strain, `Gmax`.
 
-<p style="color:#2F2F2F; font-weight: bold;">WELCOME 😄</p>
+<p style="color:#2F2F2F; font-weight: bolder;">WELCOME 😄</p>
 <p style="color:#2F2F2F; font-weight: normal;">WELCOME 😄</p>
-<p style="color:#2F2F2F; font-weight: light;">WELCOME 😄</p>
+<p style="color:#2F2F2F; font-weight: lighter;">WELCOME 😄</p>
 <p style="color:#2F2F2F; font-weight: 900;">WELCOME 😄</p>
