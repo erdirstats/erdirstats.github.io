@@ -12,7 +12,7 @@ _2020-01-08_
 _2021-04-26_  
 > Using machine learning (ML) to predict blowcounts needed for the installation of jacket piles, located in North Sea soil, using CPTU data. This was part of the Data Science Prediction Event created under the framework of the ISFOG2020 conference.  
 
-<a style="color:#2F2F2F;" href="https://erdirstats.github.io/small-strain-stiffness-final-02.html" target="_blank">Predicting shear modulus at small strain from CPTU data, using ensembled machine learning</a>  
+<a style="color:#F2C811;" href="https://erdirstats.github.io/small-strain-stiffness-final-02.html" target="_blank">Predicting shear modulus at small strain from CPTU data, using ensembled machine learning</a>  
 _2021-04-26_  
 > Using machine learning (ML) to predict blowcounts needed for the installation of jacket piles, located in North Sea soil, using CPTU data. This was part of the Data Science Prediction Event created under the framework of the ISFOG2020 conference.  
 
