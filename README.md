@@ -6,7 +6,7 @@
  
 <hr>    
  
-<p style="font-weight: normal;"><a style="color:#2F2F2F;" href="https://erdirstats.github.io/isfog-2020-final.html" target="_blank"><span style="color: #2F2F2F; font-weight: 900;">#</span> Machine learning models to predict blowcounts needed for the installation of jacket piles</a><br><span style="font-style: italic; font-weight: normal;">2020-01-08</span></p> 
+<p style="font-weight: normal;"><a style="color:#2F2F2F; font-size: 16px" href="https://erdirstats.github.io/isfog-2020-final.html" target="_blank"><span style="color: #2F2F2F; font-weight: 900;">#</span> Machine learning models to predict blowcounts needed for the installation of jacket piles</a><br><span style="font-style: italic; font-weight: normal;">2020-01-08</span></p> 
 <blockquote>Using machine learning (ML) to predict blowcounts needed for the installation of jacket piles, located in North Sea soil, using CPTU data. This was part of the Data Science Prediction Event created under the framework of the ISFOG2020 conference.</blockquote> 
  
 <br>    
