@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: <p style="color: #2F2F2F; font-size: 16px; font-weight: 900;">ERDI MYFTARAGA</p>
 description: >
     <br><br>
-    <p style="color: #2F2F2F; font-size: 16px; font-weight: 900;">ERDI MYFTARAGA</p>
+    <p>ERDI MYFTARAGA</p>
     <a href="your_website">website</a>
 layout: page
