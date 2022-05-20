@@ -4,7 +4,7 @@ Here you can find some blog posts on geotechnics and I have written. It includes
 <br/>
 <hr>    
  
-<a style="color:#2F2F2F;" href="https://erdirstats.github.io/small-strain-stiffness-final-02.html" target="_blank"># Machine learning models to predict blowcounts needed for the installation of jacket piles</a>  
+<a style="color:#2F2F2F;" href="https://erdirstats.github.io/isfog-2020-final.html" target="_blank"># Machine learning models to predict blowcounts needed for the installation of jacket piles</a>  
 _2020-01-08_  
 > Using machine learning (ML) to predict blowcounts needed for the installation of jacket piles, located in North Sea soil, using CPTU data. This was part of the Data Science Prediction Event created under the framework of the ISFOG2020 conference.  
 
