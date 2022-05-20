@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: <p style="color:#2F2F2F; font-size:16px; font-weight:900;">ERDI MYFTARAGA</p>
 description: >
-    <p style="color:#2F2F2F">Geotechnical engineer at Green Geotechnics, based in Tirana and working in marine geotechnics projects.</p>
-    <a href="your_website">website</a>
+    <p style="color:#2F2F2F">Geotechnical engineer at Green Geotechnics, based in Tirana and working in marine geotechnics projects.
+    TV series, walking, dataviz, history, football, and pasta, in reverse order.</p>
+    <p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://www.linkedin.com/in/erdi-myftaraga/" target="_blank"><span style="color: #2F2F2F; font-weight: 900;">#</span> LinkedIn</a></p> 
 layout: page
