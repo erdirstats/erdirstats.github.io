@@ -1,6 +1,8 @@
-<h2 style="color:#2F2F2F; font-size: 14px;">WELCOME 😄</h2>
+<h2 style="color:#2F2F2F; font-size: 15px; font-weight: 900;">WELCOME 😄</h2>
 
-Here you can find some blog posts on geotechnics and I have written. It includes application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. The work has been almost exclusively done using <a style="color:#2F2F2F;" href="https://www.r-project.org/" target="_blank">#rstats</a>
+<hr>
+
+<p style="color:#2F2F2F;">Here you can find some blog posts on geotechnics and I have written. It includes application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. The work has been almost exclusively done using <a style="color:#2F2F2F; font-weight: 900;" href="https://www.r-project.org/" target="_blank">#rstats</a></p>
 <br/>
 <hr>    
  
@@ -15,4 +17,4 @@ _2021-04-26_
 <p style="color:#2F2F2F; font-weight: bolder;">WELCOME 😄</p>
 <p style="color:#2F2F2F; font-weight: normal;">WELCOME 😄</p>
 <p style="color:#2F2F2F; font-weight: lighter;">WELCOME 😄</p>
-<p style="color: red; font-weight: 900;">WELCOME 😄<a style="color:#2F2F2F;" href="https://www.r-project.org/" target="_blank">#rstats</a></p>
+<p style="color: red; font-weight: 900;">WELCOME 😄<a style="color: red;" href="https://www.r-project.org/" target="_blank">#rstats</a></p>
