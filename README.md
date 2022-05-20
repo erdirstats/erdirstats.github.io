@@ -2,7 +2,7 @@
   
 <h2 style="font-size: 16px; font-weight: 900;">WELCOME 😄</h2>
 
-<hr>
+<br>
 
 <p>Here you can find some blog posts on geotechnics and I have written. It includes application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. The work has been almost exclusively done using <a style="color: #2F2F2F; font-weight: 900;" href="https://www.r-project.org/" target="_blank">#rstats</a></p>
  
