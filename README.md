@@ -11,7 +11,7 @@
  
 <br>    
  
-<p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/isfog-2020-final.html" target="_blank"><span style="color: #2F2F2F; font-weight: 900;">#</span> Predicting shear modulus at small strain from CPTU data, using ensembled machine learning</a><br><span style="font-style: italic; font-weight: normal;">2021-04-26</span></p> 
-<blockquote>The following is a short post on predicting small-strain stiffness properties from CPTU measurements by ensembling several machine learning (ML) models. More specifically, we are going to predict the value of the shear modulus at small strain, `Gmax`.</blockquote> 
+<p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/isfog-2020-final.html" target="_blank"><span style="color: #2F2F2F; font-weight: 900;">#</span>Predicting shear modulus at small strain from CPTU data, using ensembled machine learning</a><br><span style="font-style: italic; font-weight: normal;">2021-04-26</span></p> 
+<blockquote style="font-style: normal;">The following is a short post on predicting small-strain stiffness properties from CPTU measurements by ensembling several machine learning (ML) models. More specifically, we are going to predict the value of the shear modulus at small strain, `Gmax`.</blockquote> 
 
 </body>
