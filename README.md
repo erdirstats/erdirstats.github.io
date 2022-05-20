@@ -1,4 +1,4 @@
-<h2 style="color:#2F2F2F;">Welcome 😄</h2>
+<h2 style="color:#2F2F2F;">WELCOME 😄</h2>
 
 Here you can find some blog posts on geotechnics and I have written. It includes application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. The work has been almost exclusively done using #rstats.
 <br/>
