@@ -18,3 +18,8 @@ _2021-04-26_
 <p style="color:#2F2F2F; font-weight: normal;">WELCOME 😄</p>
 <p style="color:#2F2F2F; font-weight: lighter;">WELCOME 😄</p>
 <p style="color: red; font-weight: 900;">WELCOME 😄<a style="color: red;" href="https://www.r-project.org/" target="_blank">#rstats</a></p>
+
+
+<body style="color:#2F2F2F; font-weight: bolder;"><a style="color:#2F2F2F;" href="https://erdirstats.github.io/isfog-2020-final.html" target="_blank"># Machine learning models to predict blowcounts needed for the installation of jacket piles</a><body style="color:#2F2F2F; font-style: italic; font-weight: normal;">2020-01-08 </body> </body>  
+
+ 
