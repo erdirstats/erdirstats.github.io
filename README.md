@@ -2,7 +2,8 @@
   
 <h2 style="font-size: 16px; font-weight: 900;">WELCOME 😄</h2>  
 
-<p>I am using these pages to publish some long and/or short blog posts on geotechnics and I have written. These mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can show up sometimes. The work has been almost exclusively done using <a style="color: #2F2F2F;" href="https://www.r-project.org/" target="_blank"><span style="color: #2F2F2F; font-weight: 900;">#</span>rstats</a>. Sometimes the code is included in the article and sometimes it isn't.</p>
+<p>I am using these pages to publish some long and/or short blog posts on geotechnics and I have written. These mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can show up sometimes. Sometimes the code is included in the article and sometimes it isn't. The work has been almost exclusively done using <a style="color: #2F2F2F;" href="https://www.r-project.org/" target="_blank"><span style="color: #2F2F2F; font-weight: 900;">#</span>rstats</a></p>
+<p>Note: These articles represent my opinion on the material they cover and they come with ABSOLUTELY NO WARRANTY. Use at your own risk.</p>
  
 <hr>    
  
