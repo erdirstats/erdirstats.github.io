@@ -1,8 +1,8 @@
 <body style="color: #2F2F2F;">
 
-<p style="font-family:monospace;background-color:#E7E7E7;font-size:16px;">WELCOME </span><span style="font-family:monospace;font-size:16px;">😄</p>
+<span style="font-family:monospace;background-color:#E7E7E7;font-size:16px;">WELCOME </span><span style="font-family:monospace;font-size:16px;">😄</span>
   
-<br>
+<p></p>
 
 <p>I am using these pages to publish some long and/or short blog posts on geotechnics and I have written. These mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can show up sometimes. Sometimes the code is included in the article and sometimes it isn't. The work has been almost exclusively done with <a style="color: #2F2F2F;" href="https://www.r-project.org/" target="_blank"><span style="font-family:monospace;background-color:#E7E7E7;text-transform:uppercase;">#rstats</span></a>.</p>
 
