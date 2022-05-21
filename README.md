@@ -1,6 +1,6 @@
 <body style="color: #2F2F2F;">
 
-<span style="font-family:monospace;background-color:#E7E7E7;font-size:16px;">WELCOME</span><span style="font-family:monospace;font-size:16px;"> 😄</span>
+<p style="font-family:monospace;font-size:16px;font-weight:900;">WELCOME 😄</p>
   
 <p></p>
 
