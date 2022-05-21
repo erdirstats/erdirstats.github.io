@@ -6,10 +6,9 @@
 
 <p>I am using these pages to publish some long and/or short blog posts on geotechnics and I have written. These mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can show up sometimes. Sometimes the code is included in the article and sometimes it isn't. The work has been almost exclusively done with <a style="color: #2F2F2F;font-family:monospace;font-weight: normal;background-color:#E7E7E7;text-transform:uppercase;" href="https://www.r-project.org/" target="_blank">#rstats</a>.</p>
 
-<p><span style="font-family:monospace;background-color:#E7E7E7">Note:</span> These articles represent my opinion on the material they cover and they come with absolutely no warranty. Use at your own risk.</p>
+<p><span style="font-family:monospace;background-color:#E7E7E7">NOTE:</span> These articles represent my opinion on the material they cover and they come with absolutely no warranty. Use at your own risk.</p>
 
-<p><span style="font-family: monospace; font-weight: normal; background-color: #E7E7E7">CC BY-NC:</span> This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format
-for noncommercial purposes only, and only so long as attribution is given to the creator.</p>
+<p><span style="font-family: monospace; font-weight: normal; background-color: #E7E7E7">COPYRIGHT:</span>  CC BY-NC: you are allowed to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator.</p>
 
 <hr>    
 
