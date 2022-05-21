@@ -6,9 +6,8 @@
 
 <p>Note: These articles represent my opinion on the material they cover and they come with ABSOLUTELY NO WARRANTY. Use at your own risk.</p>
 
-<p>Copyright: CC BY-NC: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format
+<p><span style="font-family: monospace; font-weight: 900; background-color: #F7F7F7">CC BY-NC</span> copyright license: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format
 for noncommercial purposes only, and only so long as attribution is given to the creator.</p>
-<img title="Copyright" alt="Copyright" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" alt="Girl in a jacket" width="125">
 
 <hr>    
 
