@@ -1,6 +1,6 @@
 <body style="color: #2F2F2F;">
 
-<span style="font-family:monospace;background-color:#E7E7E7;font-size:16px;">WELCOME </span><span style="font-family:monospace;font-size:16px;">😄</span>
+<span style="font-family:monospace;background-color:#E7E7E7;font-size:16px;">WELCOME</span><span style="font-family:monospace;font-size:16px;"> 😄</span>
   
 <p></p>
 
@@ -8,7 +8,7 @@
 
 <p><span style="font-family:monospace;background-color:#E7E7E7">NOTE:</span> These articles represent my opinion on the material they cover and they come with absolutely no warranty. Use at your own risk.</p>
 
-<p><span style="font-family: monospace; font-weight: normal; background-color: #E7E7E7">COPYRIGHT:</span>  CC BY-NC: you are allowed to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator.</p>
+<p><span style="font-family: monospace; font-weight: normal; background-color: #E7E7E7">COPYRIGHT:</span> CC BY-NC. You are allowed to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator.</p>
 
 <hr>    
 
