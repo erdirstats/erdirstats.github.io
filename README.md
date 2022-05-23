@@ -1,6 +1,6 @@
 <body style="color: #2F2F2F;">
 
-<p style="font-family:monospace;font-size:16px;font-weight:900;">WELCOME 😀</p>
+<p style="font-family:monospace;font-size:16px;font-weight:900;">WELCOME!</p>
 
 <p></p>
 
@@ -12,11 +12,16 @@
 
 <hr>
 
+<p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/04-sbt-charts.html" target="_blank"><span style="font-family: monospace; background-color: #E7E7E7">04 SOIL BEHVIOUR TYPE CHARTS</span></a><br><span style="font-style: italic; font-weight: normal;">2022-03-15</span></p> 
+<blockquote style="font-style: normal;">It can be useful sometimes to create an idea on how the <span style="font-family:monospace;background-color:#E7E7E7">CPTU</span> measurement points of a particular site or soil unit are distributed among different <span style="font-family:monospace;background-color:#E7E7E7">SPT</span> (Soil Behavior Type zones. I wrote a small function to categorize <span style="font-family:monospace;background-color:#E7E7E7">CPTU</span> data points according to the zone they plot in a few <span style="font-family:monospace;background-color:#E7E7E7">SBT</span> charts.</blockquote>
+
+<br>
+
 <p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/03-small-strain-stiffness.html" target="_blank"><span style="font-family: monospace; background-color: #E7E7E7">03 Predicting shear modulus at small strain from CPTU data using ensembled machine learning</span></a><br><span style="font-style: italic; font-weight: normal;">2021-04-26</span></p> 
 <blockquote style="font-style: normal;">Short post on predicting small-strain stiffness properties from <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> measurements by ensembling several machine learning models. More specifically, we are going to predict the value of the shear modulus at small strain, <span style="font-family:monospace;background-color:#E7E7E7">Gmax</span>.</blockquote>
 
 <br>
-
+  
 <p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/02-cptu-downhole.html" target="_blank"><span style="font-family: monospace; background-color: #E7E7E7">02 APPLICATION FOR FILTERING DOWNHOLE CPTU DATA</span></a><br><span style="font-style: italic; font-weight: normal;">2021-03-21</span></p>
 <blockquote style="font-style: normal;">I wrote a small app for dealing with down-hole <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> measurements. The basic idea of the app is to remove initial measurement points (“fake measurements”) within each down-hole <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> stroke, which may not be representative of the real soil conditions.</blockquote>
 
