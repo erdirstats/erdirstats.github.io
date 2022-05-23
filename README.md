@@ -13,12 +13,12 @@
 <hr>
 
 <p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/03-small-strain-stiffness.html" target="_blank"><span style="font-family: monospace; background-color: #E7E7E7">03 Predicting shear modulus at small strain from CPTU data using ensembled machine learning</span></a><br><span style="font-style: italic; font-weight: normal;">2021-04-26</span></p> 
-<blockquote style="font-style: normal;">The following is a short post on predicting small-strain stiffness properties from <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> measurements by ensembling several machine learning models. More specifically, we are going to predict the value of the shear modulus at small strain, <span style="font-family:monospace;background-color:#E7E7E7">Gmax</span>.</blockquote>
+<blockquote style="font-style: normal;">Short post on predicting small-strain stiffness properties from <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> measurements by ensembling several machine learning models. More specifically, we are going to predict the value of the shear modulus at small strain, <span style="font-family:monospace;background-color:#E7E7E7">Gmax</span>.</blockquote>
 
 <br>
 
 <p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/02-cptu-downhole.html" target="_blank"><span style="font-family: monospace; background-color: #E7E7E7">02 APPLICATION FOR FILTERING DOWNHOLE CPTU DATA</span></a><br><span style="font-style: italic; font-weight: normal;">2021-03-21</span></p>
-<blockquote style="font-style: normal;">The following is a short post on predicting small-strain stiffness properties from <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> measurements by ensembling several machine learning models. More specifically, we are going to predict the value of the shear modulus at small strain, <span style="font-family:monospace;background-color:#E7E7E7">Gmax</span>.</blockquote>
+<blockquote style="font-style: normal;">I wrote a small app for dealing with down-hole <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> measurements. The basic idea of the app is to remove initial measurement points (“fake measurements”) within each down-hole <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> stroke, which may not be representative of the real soil conditions.</blockquote>
 
 <br>
 
