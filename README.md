@@ -4,7 +4,7 @@
 
 <body style="color:#2F2F2F;font-family: 'Roboto', sans-serif; font-size: 14px;">
 
-<p style="font-family:monospace;font-size:16px;font-weight:900;">WELCOME!</p>
+<p style="font-family:monospace;font-size:22px;font-weight:900;">WELCOME!</p>
 
 <p></p>
 
