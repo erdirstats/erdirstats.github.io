@@ -2,7 +2,7 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 
-<body style="color:#2F2F2F;font-family: 'Roboto', sans-serif; font-size: 16px;">
+<body style="color:#2F2F2F;font-family: 'Roboto', sans-serif; font-size: 14px;">
 
 <p style="font-family:monospace;font-size:16px;font-weight:900;">WELCOME!</p>
 
