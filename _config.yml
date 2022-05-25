@@ -4,4 +4,4 @@ description: >
     TV series, walking, dataviz, history, football, and pasta, in reverse order.</p>
 theme: jekyll-theme-minimal
 github:
-    is_project_page: false
+    is\_project\_page:false
