@@ -18,7 +18,7 @@
 
 <p></p>
   
-<p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/04-sbt-charts.html" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#E7E7E7;">04 SOIL BEHAVIOUR TYPE CHARTS</span></a><br><span style="font-style: italic; font-weight: normal;">2022-03-15</span></p> 
+<p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/04-sbt-charts.html" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#E7E7E7;">04 SOIL BEHAVIOUR TYPE CHARTS</span></a><br><span style="font-style: italic; font-weight: normal; font-size: 16px;">2022-03-15</span></p> 
 <blockquote style="font-style: normal;">It can be useful sometimes to create an idea on how the <span style="font-family:monospace;background-color:#E7E7E7">CPTU</span> measurement points of a particular site or soil unit are distributed among different <span style="font-family:monospace;background-color:#E7E7E7">SPT</span> (Soil Behavior Type) zones. I wrote a small function to categorize <span style="font-family:monospace;background-color:#E7E7E7">CPTU</span> data points according to the zone they plot in a few <span style="font-family:monospace;background-color:#E7E7E7">SBT</span> charts.</blockquote>
 
 <br>
@@ -28,12 +28,12 @@
 
 <br>
   
-<p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/02-cptu-downhole.html" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#E7E7E7;">02 APPLICATION FOR FILTERING DOWNHOLE CPTU DATA</span></a><br><span style="font-style: italic; font-weight: normal;">2021-03-21</span></p>
+<p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/02-cptu-downhole.html" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#E7E7E7;">02 APPLICATION FOR FILTERING DOWNHOLE CPTU DATA</span></a><br><span style="font-style: italic; font-weight: normal; font-size: 8px;">2021-03-21</span></p>
 <blockquote style="font-style: normal;">Small app for dealing with down-hole <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> measurements. The basic idea of the app is to remove initial measurement points (“fake measurements”) within each down-hole <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> stroke, which may not be representative of the real soil conditions.</blockquote>
 
 <br>
 
-<p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/01-pile-driveability-isfog.html" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#E7E7E7;">01 Machine learning to predict blowcounts needed for the installation of jacket piles</span></a><br><span style="font-style: italic; font-weight: normal;">2020-01-08</span></p> 
+<p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/01-pile-driveability-isfog.html" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#E7E7E7;">01 Machine learning to predict blowcounts needed for the installation of jacket piles</span></a><br><span style="font-style: italic; font-weight: normal; font-size: 10px;">2020-01-08</span></p> 
 <blockquote style="font-style: normal;">Building some machine learning models to predict blowcounts needed for the installation of jacket piles, located in North Sea soil, using <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> data. This was part of the Data Science Prediction Event created under the framework of the ISFOG2020 conference.</blockquote>
 
 </body>
