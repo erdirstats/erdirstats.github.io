@@ -14,7 +14,7 @@
 
 <p><span style="font-family: monospace; font-weight: normal; background-color: #E7E7E7">LICENSE</span> <br>The work licensed under a Creative Commons Attribution-NonCommercial 4.0 (<a style="color:#2F2F2F; text-transform: uppercase;" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#E7E7E7;">CC BY-NC 4.0</span></a>) International License.</p>
 
-<p style="font-family:monospace;font-size:22px;font-weight:900;">WELCOME!</p>
+<p style="font-family:monospace;font-size:22px;font-weight:900;">CONTENT</p>
 
 <p></p>
   
