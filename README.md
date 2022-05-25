@@ -2,7 +2,7 @@
 
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Sofia&display=swap" rel="stylesheet">
 
-<body style="color:#2F2F2F;font-family:Jost;">
+<body style="color:#2F2F2F;font-family:Sofia;">
 
 <p style="font-family:monospace;font-size:16px;font-weight:900;">WELCOME!</p>
 
