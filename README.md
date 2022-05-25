@@ -14,8 +14,10 @@
 
 <p><span style="font-family: monospace; font-weight: normal; background-color: #E7E7E7">LICENSE</span> <br>The work licensed under a Creative Commons Attribution-NonCommercial 4.0 (<a style="color:#2F2F2F; text-transform: uppercase;" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#E7E7E7;">CC BY-NC 4.0</span></a>) International License.</p>
 
-<hr>
-<p><span style="font-family:monospace;background-color:#E7E7E7">NOTE</span> <br>
+<p style="font-family:monospace;font-size:22px;font-weight:900;">WELCOME!</p>
+
+<p></p>
+  
 <p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/04-sbt-charts.html" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#E7E7E7;">04 SOIL BEHAVIOUR TYPE CHARTS</span></a><br><span style="font-style: italic; font-weight: normal;">2022-03-15</span></p> 
 <blockquote style="font-style: normal;">It can be useful sometimes to create an idea on how the <span style="font-family:monospace;background-color:#E7E7E7">CPTU</span> measurement points of a particular site or soil unit are distributed among different <span style="font-family:monospace;background-color:#E7E7E7">SPT</span> (Soil Behavior Type) zones. I wrote a small function to categorize <span style="font-family:monospace;background-color:#E7E7E7">CPTU</span> data points according to the zone they plot in a few <span style="font-family:monospace;background-color:#E7E7E7">SBT</span> charts.</blockquote>
 
