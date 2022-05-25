@@ -1,8 +1,10 @@
 <head/>
 
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Sofia&display=swap" rel="stylesheet">
+<link href="<link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">">
 
-<body style="color:#2F2F2F;font-family:Sofia;">
+</head>
+
+<body style="color:#2F2F2F;font-family: 'Jost', sans-serif;">
 
 <p style="font-family:monospace;font-size:16px;font-weight:900;">WELCOME!</p>
 
@@ -35,5 +37,3 @@
 <blockquote style="font-style: normal;">Building some machine learning models to predict blowcounts needed for the installation of jacket piles, located in North Sea soil, using <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> data. This was part of the Data Science Prediction Event created under the framework of the ISFOG2020 conference.</blockquote>
 
 </body>
-
-</head>
