@@ -1,8 +1,8 @@
-<head/>
+<head>
 
 <link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
 
-<body style="color:#2F2F2F;font-family: 'Jost', sans-serif; font-size = 14px;">
+<body style="color:#2F2F2F;font-family: 'Jost', sans-serif; font-size = 16px;">
 
 <p style="font-family:monospace;font-size:16px;font-weight:900;">WELCOME!</p>
 
