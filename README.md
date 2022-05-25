@@ -12,7 +12,7 @@
   
 <p><span style="font-family:monospace;background-color:#E7E7E7">NOTE</span> <br>These articles represent my opinion on the material they cover and not the views of my employer. The content comes with absolutely no warranty. Use at your own risk.</p>
 
-<p><span style="font-family: monospace; font-weight: normal; background-color: #E7E7E7">LICENSE</span> <br>The work licensed under a Creative Commons Attribution-NonCommercial 4.0 (<a style="color:#2F2F2F; text-transform: uppercase;" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#E7E7E7;">CC BY-NC 4.0</span></a>) International License.</p>
+<p><span style="font-family: monospace; font-weight: normal; background-color: #E7E7E7">LICENSE</span> <br>The work licensed under a Creative Commons Attribution-NonCommercial 4.0 International License <a style="color:#2F2F2F; text-transform: uppercase;" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#E7E7E7;">CC BY-NC 4.0</span></a></p>
 
 <p style="font-family:monospace;font-size:32px;font-weight:900;">CONTENT</p>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-<p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/03-small-strain-stiffness.html" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#E7E7E7;">03 Predicting shear modulus at small strain from CPTU data using ensembled machine learning</span></a><br><span style="font-style: italic; font-weight: normal;">2021-04-26</span></p> 
+<p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/03-small-strain-stiffness.html" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#E7E7E7;">03 Predicting shear modulus at small strain from CPTU data using ensembled machine learning</span></a><br><span style="font-style: italic; font-weight: normal; font-size: 12px;">2021-04-26</span></p> 
 <blockquote style="font-style: normal;">Short post on predicting small-strain stiffness properties from <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> measurements by ensembling several machine learning models. More specifically, we are going to predict the value of the shear modulus at small strain, <span style="font-family:monospace;background-color:#E7E7E7">Gmax</span>.</blockquote>
 
 <br>
