@@ -2,7 +2,7 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Jost&display=swap" rel="stylesheet">
 
-<body style="color:#2F2F2F;font-family: 'Jost', sans-serif; font-size: 16px;">
+<body style="color:#2F2F2F;font-family:'Fira Code',monospace;font-size: 16px;">
 
 title: <p style="color:#2F2F2F;font-size:16px;font-family:'Fira Code',monospace;">ERDI MYFTARAGA</p>
 description: >
