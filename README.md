@@ -10,7 +10,7 @@
 
 <p></p>
 
-<p>I am using these pages to publish some long and/or short blog posts on geotechnics. This works very well for me as a way to document stuff. I hope it can be useful to other users too. Articles mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can show up sometimes. Sometimes the code is included in the article and sometimes it isn't. The work has been almost exclusively done with <a style="color: #2F2F2F;font-family:monospace;background-color:#E7E7E7;" href="https://www.r-project.org/" target="_blank">R</a> code.</p>
+<p>I am using these pages to publish some long and/or short blog posts on geotechnics. This also works very well for me as a way to document stuff. I hope it can be useful to other users too. Articles mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can show up sometimes. Sometimes the code is included in the article and sometimes it isn't. The work has been almost exclusively done with <a style="color: #2F2F2F;font-family:monospace;background-color:#E7E7E7;" href="https://www.r-project.org/" target="_blank">R</a> code.</p>
 
 <p><span style="font-family:monospace;background-color:#E7E7E7">NOTE:</span> These articles represent my opinion on the material they cover and they come with absolutely no warranty. Use at your own risk.</p>
 
@@ -29,7 +29,7 @@
 <br>
   
 <p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/02-cptu-downhole.html" target="_blank"><span style="font-family: monospace; background-color: #E7E7E7">02 APPLICATION FOR FILTERING DOWNHOLE CPTU DATA</span></a><br><span style="font-style: italic; font-weight: normal;">2021-03-21</span></p>
-<blockquote style="font-style: normal;">I wrote a small app for dealing with down-hole <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> measurements. The basic idea of the app is to remove initial measurement points (“fake measurements”) within each down-hole <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> stroke, which may not be representative of the real soil conditions.</blockquote>
+<blockquote style="font-style: normal;">Small app for dealing with down-hole <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> measurements. The basic idea of the app is to remove initial measurement points (“fake measurements”) within each down-hole <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> stroke, which may not be representative of the real soil conditions.</blockquote>
 
 <br>
 
