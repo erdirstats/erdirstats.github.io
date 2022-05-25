@@ -1,7 +1,17 @@
-title: <p style="color:#2F2F2F;font-size:16px;font-family:monospace;">ERDI MYFTARAGA</p>
+<head>
+
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Jost&display=swap" rel="stylesheet">
+
+<body style="color:#2F2F2F;font-family: 'Jost', sans-serif; font-size: 16px;">
+
+title: <p style="color:#2F2F2F;font-size:16px;font-family:'Fira Code',monospace;">ERDI MYFTARAGA</p>
 description: >
     <p style="color:#2F2F2F">Geotechnical engineer at Green Geotechnics, based in Tirana and working in marine geotechnics projects.
     TV series, walking, dataviz, history, football, and pasta, in reverse order.</p>
 theme: jekyll-theme-minimal
 github:
     is_project_page: false
+
+</body>
+
+</head>
