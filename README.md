@@ -1,4 +1,4 @@
-<body style="color: #2F2F2F;">
+<body style="color:#2F2F2F;font-family:Jost;">
 
 <p style="font-family:monospace;font-size:16px;font-weight:900;">WELCOME!</p>
 
