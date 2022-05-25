@@ -1,10 +1,14 @@
+<head/>
+
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Sofia&display=swap" rel="stylesheet">
+
 <body style="color:#2F2F2F;font-family:Jost;">
 
 <p style="font-family:monospace;font-size:16px;font-weight:900;">WELCOME!</p>
 
 <p></p>
 
-<p>I am using these pages to publish some long and/or short blog posts on geotechnics and I have written. These mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can show up sometimes. Sometimes the code is included in the article and sometimes it isn't. The work has been almost exclusively done with <a style="color: #2F2F2F;font-family:monospace;background-color:#E7E7E7;" href="https://www.r-project.org/" target="_blank">R</a> code.</p>
+<p>I am using these pages to publish some long and/or short blog posts on geotechnics. This works very well for me as a way to document stuff. I hope it can be useful to other users too. Articles mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can show up sometimes. Sometimes the code is included in the article and sometimes it isn't. The work has been almost exclusively done with <a style="color: #2F2F2F;font-family:monospace;background-color:#E7E7E7;" href="https://www.r-project.org/" target="_blank">R</a> code.</p>
 
 <p><span style="font-family:monospace;background-color:#E7E7E7">NOTE:</span> These articles represent my opinion on the material they cover and they come with absolutely no warranty. Use at your own risk.</p>
 
@@ -31,3 +35,5 @@
 <blockquote style="font-style: normal;">Building some machine learning models to predict blowcounts needed for the installation of jacket piles, located in North Sea soil, using <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> data. This was part of the Data Science Prediction Event created under the framework of the ISFOG2020 conference.</blockquote>
 
 </body>
+
+</head>
