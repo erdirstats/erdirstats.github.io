@@ -1,7 +1,15 @@
 <head>
 
 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-
+<style>
+    a {
+    font-family: 'Fira Code', monospace;
+    background-color: #5D69B1;
+    color: #FFFFFF;
+    font-size: 0.825em;
+    padding: 0 25px;
+}
+</style>
 </head>
   
 <body style="color:#2F2F2F;font-family: 'Roboto', sans-serif; font-size: 14px;">
