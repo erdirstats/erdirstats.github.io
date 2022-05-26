@@ -7,7 +7,7 @@
     background-color: #5D69B1;
     color: #FFFFFF;
     font-size: 0.825em;
-    padding: 0 25px;
+    padding: 0 5px;
 }
 </style>
 </head>
