@@ -9,6 +9,10 @@
     font-size: 0.825em;
     padding: 0 25px;
 }
+    
+    a:hover {
+    color:red;
+}
 </style>
 </head>
   
