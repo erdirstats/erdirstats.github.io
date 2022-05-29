@@ -27,10 +27,9 @@ body {
 
 blockquote {
     font-family: 'Roboto', sans-serif;
-    background-color: #EEEEEE;
-    color: #0E0E0E;
-    /*font-size: 0.825em;*/
-    padding: 0 5px;
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
 }
 
 code {
