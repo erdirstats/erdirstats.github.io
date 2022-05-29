@@ -26,7 +26,7 @@ Here I publish some long and/or short blog posts on geotechnics. This works very
 <br>
   
 <p>
-<h4>NOTE</h4>
+<sec>NOTE</sec>
 <br>
 These articles represent my opinion on the material they cover and not the views of my employer. The content comes with absolutely no warranty. Use at your own risk.
 </p>

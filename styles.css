@@ -40,6 +40,15 @@ code {
     font-style: normal;
 }
 
+sec {
+    font-family: 'Fira Code', monospace;
+    font-weight: 900;
+    background-color: #EEEEEE;
+    color: #0E0E0E;
+    padding: 0 5px;
+    font-style: normal;
+}
+
 a {
   font-family: 'Fira Code', monospace;
   padding: 2px 2px 0;
