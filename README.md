@@ -14,7 +14,7 @@
   
 <body style="color:#2F2F2F;font-family: 'Roboto', sans-serif; font-size: 14px;">
 
-<p style="font-family:monospace;font-size:32px;font-weight:900;">WWWWWELCOME!</p>
+<p style="font-family:monospace;font-size:32px;font-weight:900;">WELCOME!</p>
 
 <p></p>
 
