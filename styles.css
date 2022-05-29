@@ -4,15 +4,28 @@ h1 {
     color: #0E0E0E;
 }
 
+h2 {
+    font-family: 'Fira Code', monospace;
+    font-weight: 900;
+    color: #0E0E0E;
+}
+
 a {
     font-family: 'Fira Code', monospace;
-    background-color: FFFFFF;
+    background-color: #FFFFFF;
+    color: #0E0E0E;
+    padding: 0 5px;
+}
+
+atitle {
+    font-family: 'Fira Code', monospace;
+    background-color: #EEEEEE;
     color: #0E0E0E;
     padding: 0 5px;
 }
 
 p {
-    font-family: 'Fira Code', monospace;
+    font-family: 'Roboto', sans-serif;
     background-color: #FFFFFF;
     color: #0E0E0E;
     padding: 0 5px;
@@ -23,5 +36,20 @@ body {
     background-color: #FFFFFF;
     color: #0E0E0E;
     /*font-size: 0.825em;*/
+    padding: 0 5px;
+}
+
+blockquote {
+    font-family: 'Roboto', sans-serif;
+    background-color: #EEEEEE;
+    color: #0E0E0E;
+    /*font-size: 0.825em;*/
+    padding: 0 5px;
+}
+
+code {
+    font-family: 'Fira Code', monospace;
+    background-color: #EEEEEE;
+    color: #0E0E0E;
     padding: 0 5px;
 }

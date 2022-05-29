@@ -8,7 +8,7 @@
 
 </head>
   
-<!-- WMain content -->
+<!-- General info -->
 <body>
 
 <h1>WELCOME!</h1>
@@ -16,7 +16,7 @@
 <p></p>
 
 <p>
-<code>INTRO</code>
+<h2>INTRO</h2>
 <br>
 Here I publish some long and/or short blog posts on geotechnics. This works very well for me as a way to document stuff but I also hope the content can be useful to other readers too. Posts mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can also show up. Sometimes the code is included along the main text and sometimes it isn't. The work has been almost exclusively done with 
 <a href="https://www.r-project.org/" title = "R WEBPAGE" target="_blank">R</a>
@@ -26,31 +26,30 @@ Here I publish some long and/or short blog posts on geotechnics. This works very
 <br>
   
 <p>
-<code>NOTE</code>
+<h2>NOTE</h2>
 <br>
 These articles represent my opinion on the material they cover and not the views of my employer. The content comes with absolutely no warranty. Use at your own risk.
 </p>
 
 <p>
-<code>LICENSE</code>
+<h2>LICENSE</h2>
 <br>
 The work licensed under a Creative Commons Attribution-NonCommercial 4.0 International License 
 <a href="https://creativecommons.org/licenses/by-nc/4.0/" title="creativecommons.org" target="_blank">CC BY-NC 4.0</a>
- .
+.
 </p>
+
+<!-- Main content -->
 
 <h1>CONTENT</h1>
 
 <p></p>
-  
-<p>
-<a href="https://erdirstats.github.io/04-sbt-charts.html" title="FULL ARTICLE" target="_blank">04 SOIL BEHAVIOUR TYPE CHARTS</a>
-<br>
-<code>2022-03-15</code>
-</p> 
-<blockquote>
-It can be useful sometimes to create an idea on how the <code>CPTU</code> measurement points of a particular site or soil unit are distributed among different <code>SBT</code> (Soil Behavior Type) zones. I wrote a small function to categorize <code>CPTU</code> data points according to the zone they plot in a few <code>SBT</code> charts.
-</blockquote>
+
+<!-- 04 -->
+
+<p><atitle href="https://erdirstats.github.io/04-sbt-charts.html" title="FULL ARTICLE" target="_blank">04 SOIL BEHAVIOUR TYPE CHARTS</atitle>
+<br> <code>2022-03-15</code> </p>
+<blockquote> It can be useful sometimes to create an idea on how the <code>CPTU</code> measurement points of a particular site or soil unit are distributed among different <code>SBT</code> (Soil Behavior Type) zones. I wrote a small function to categorize <code>CPTU</code> data points according to the zone they plot in a few <code>SBT</code> charts.</blockquote>
 
 <br>
 
@@ -66,9 +65,5 @@ It can be useful sometimes to create an idea on how the <code>CPTU</code> measur
 
 <p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/01-pile-driveability-isfog.html" title="FULL ARTICLE" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#FFFFFF;">01 Machine learning to predict blowcounts needed for the installation of jacket piles</span></a><br><span style="font-family: monospace;font-weight: normal; font-size: 14px;">2020-01-08</span></p> 
 <blockquote style="font-style: normal;">Building some machine learning models to predict blowcounts needed for the installation of jacket piles, located in North Sea soil, using <span style="font-family: monospace; background-color: #E7E7E7">CPTU</span> data. This was part of the Data Science Prediction Event created under the framework of the ISFOG2020 conference.</blockquote>
-
-# Test
-
-Some code `here`
 
 </body>
