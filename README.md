@@ -47,7 +47,7 @@ The work licensed under a Creative Commons Attribution-NonCommercial 4.0 Interna
 
 <!-- 04 -->
 
-<p><atitle href="https://erdirstats.github.io/04-sbt-charts.html" title="FULL ARTICLE" target="_blank">04 SOIL BEHAVIOUR TYPE CHARTS</atitle>
+<p><a href="https://erdirstats.github.io/04-sbt-charts.html" title="FULL ARTICLE" target="_blank">04 SOIL BEHAVIOUR TYPE CHARTS</a>
 <br> <code>2022-03-15</code> </p>
 <blockquote> It can be useful sometimes to create an idea on how the <code>CPTU</code> measurement points of a particular site or soil unit are distributed among different <code>SBT</code> (Soil Behavior Type) zones. I wrote a small function to categorize <code>CPTU</code> data points according to the zone they plot in a few <code>SBT</code> charts.</blockquote>
 
