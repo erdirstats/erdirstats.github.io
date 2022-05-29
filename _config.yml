@@ -1,3 +1,25 @@
+<head>
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+<style>
+    a {
+    font-family: 'Fira Code', monospace;
+    background-color: #5D69B1;
+    color: #FFFFFF;
+    font-size: 0.825em;
+    padding: 0 5px;
+}
+
+p {
+    font-family: 'Fira Code', monospace;
+    background-color: #5D69B1;
+    color: #FFFFFF;
+    font-size: 0.825em;
+    padding: 0 5px;
+}
+</style>
+</head>
+
 title: <p style="color:#2F2F2F;font-family:monospace;font-size:32px;font-weight:900;">ERDI MYFTARAGA</p>
 description: >
     <p style="font-weight:normal;color:#2F2F2F">Geotechnical engineer at Green Geotechnics, based in Tirana and working in marine geotechnics projects.
