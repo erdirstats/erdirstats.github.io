@@ -1,18 +1,33 @@
 <head>
 
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Fira+Mono&family=Roboto&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+<style>
+    a {
+    font-family: 'Fira Code', monospace;
+    background-color: #5D69B1;
+    color: #FFFFFF;
+    font-size: 0.825em;
+    padding: 0 5px;
+}
 
-<link rel="stylesheet" href="styles.css">
+p {
+    font-family: 'Fira Code', monospace;
+    background-color: #5D69B1;
+    color: #FFFFFF;
+    font-size: 0.825em;
+    padding: 0 5px;
+}
 
+</style>
 </head>
   
-<body>
+<body style="color:#2F2F2F;font-family: 'Roboto', sans-serif; font-size: 14px;">
 
-<p>WELCOME!</p>
+<p style="font-family:monospace;font-size:32px;font-weight:900;">WELCOME!</p>
 
 <p></p>
 
-<p><span>INTRO</span> <br>Here I publish some long and/or short blog posts on geotechnics. This works very well for me as a way to document stuff but I also hope the content can be useful to other readers too. Posts mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can also show up. Sometimes the code is included along the main text and sometimes it isn't. The work has been almost exclusively done with <a href="https://www.r-project.org/" title = "R PROJECT WEBPAGE" target="_blank">R</a> code.</p>
+<p><span style="font-family:monospace;background-color:#E7E7E7">INTRO</span> <br>Here I publish some long and/or short blog posts on geotechnics. This works very well for me as a way to document stuff but I also hope the content can be useful to other readers too. Posts mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can also show up. Sometimes the code is included along the main text and sometimes it isn't. The work has been almost exclusively done with <a style="font-family: monospace; background-color: #5D69B1; color:#FFFFFF;padding: 0 25px;" href="https://www.r-project.org/" title = "R PROJECT WEBPAGE" target="_blank">R</a> code.</p>
   
 <p><span style="font-family:monospace;background-color:#E7E7E7">NOTE</span> <br>These articles represent my opinion on the material they cover and not the views of my employer. The content comes with absolutely no warranty. Use at your own risk.</p>
 

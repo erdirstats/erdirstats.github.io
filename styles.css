@@ -1,0 +1,23 @@
+a {
+    font-family: 'Fira Code', monospace;
+    background-color: blue;
+    color: #FFFFFF;
+    font-size: 0.825em;
+    padding: 0 5px;
+}
+
+p {
+    font-family: 'Fira Code', monospace;
+    background-color: #5D69B1;
+    color: #FFFFFF;
+    font-size: 0.825em;
+    padding: 0 5px;
+}
+
+body {
+    ffont-family: 'Roboto', sans-serif;
+    background-color: red;
+    color: #FFFFFF;
+    font-size: 0.825em;
+    padding: 0 5px;
+}
