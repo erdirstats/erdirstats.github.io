@@ -8,7 +8,6 @@ a {
     font-family: 'Fira Code', monospace;
     background-color: FFFFFF;
     color: #0E0E0E;
-    font-size: 0.825em;
     padding: 0 5px;
 }
 
@@ -16,7 +15,6 @@ p {
     font-family: 'Fira Code', monospace;
     background-color: #FFFFFF;
     color: #0E0E0E;
-    font-size: 0.825em;
     padding: 0 5px;
 }
 
@@ -24,6 +22,6 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: #FFFFFF;
     color: #0E0E0E;
-    font-size: 0.825em;
+    /*font-size: 0.825em;*/
     padding: 0 5px;
 }

@@ -1,3 +1,5 @@
+<!-- Fonts and CSS styles -->
+
 <head>
 
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Fira+Mono&family=Roboto&display=swap" rel="stylesheet">
@@ -6,30 +8,49 @@
 
 </head>
   
+<!-- WMain content -->
 <body>
 
-<p>WELCOME!</p>
+<h1>WELCOME!</h1>
 
 <p></p>
 
-<p><span>INTRO</span> <br>Here I publish some long and/or short blog posts on geotechnics. This works very well for me as a way to document stuff but I also hope the content can be useful to other readers too. Posts mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can also show up. Sometimes the code is included along the main text and sometimes it isn't. The work has been almost exclusively done with <a href="https://www.r-project.org/" title = "R PROJECT WEBPAGE" target="_blank">R</a> code.</p>
-
+<p>
+<code>INTRO</code>
+<br>
+Here I publish some long and/or short blog posts on geotechnics. This works very well for me as a way to document stuff but I also hope the content can be useful to other readers too. Posts mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can also show up. Sometimes the code is included along the main text and sometimes it isn't. The work has been almost exclusively done with 
+<a href="https://www.r-project.org/" title = "R WEBPAGE" target="_blank">R</a>
+ code.
+</p>
+  
 <br>
   
-  Here I publish some long and/or short blog posts on geotechnics. This works very well for me as a way to document stuff but I also hope the content can be useful to other readers too. Posts mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can also show up.
-  
-  <br>
-  
-<p><span style="font-family:monospace;background-color:#E7E7E7">NOTE</span> <br>These articles represent my opinion on the material they cover and not the views of my employer. The content comes with absolutely no warranty. Use at your own risk.</p>
+<p>
+<code>NOTE</code>
+<br>
+These articles represent my opinion on the material they cover and not the views of my employer. The content comes with absolutely no warranty. Use at your own risk.
+</p>
 
-<p><span style="font-family: monospace; font-weight: normal; background-color: #E7E7E7">LICENSE</span> <br>The work licensed under a Creative Commons Attribution-NonCommercial 4.0 International License <a style="color:#2F2F2F; text-transform: uppercase;" href="https://creativecommons.org/licenses/by-nc/4.0/" title="creativecommons.org" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#FFFFFF;">CC BY-NC 4.0</span></a></p>
+<p>
+<code>LICENSE</code>
+<br>
+The work licensed under a Creative Commons Attribution-NonCommercial 4.0 International License 
+<a href="https://creativecommons.org/licenses/by-nc/4.0/" title="creativecommons.org" target="_blank">CC BY-NC 4.0</a>
+ .
+</p>
 
-<p style="font-family:monospace;font-size:32px;font-weight:900;">CONTENT</p>
+<h1>CONTENT</h1>
 
 <p></p>
   
-<p style="font-weight: normal;"><a style="color:#2F2F2F; text-transform: uppercase;" href="https://erdirstats.github.io/04-sbt-charts.html" title="FULL ARTICLE" target="_blank"><span style="font-family: monospace; background-color: #5D69B1; color:#FFFFFF;">04 SOIL BEHAVIOUR TYPE CHARTS</span></a><br><span style="font-family: monospace; font-weight: normal; font-size: 14px;">2022-03-15</span></p> 
-<blockquote style="font-style: normal;">It can be useful sometimes to create an idea on how the <span style="font-family:monospace;background-color:#E7E7E7">CPTU</span> measurement points of a particular site or soil unit are distributed among different <span style="font-family:monospace;background-color:#E7E7E7">SPT</span> (Soil Behavior Type) zones. I wrote a small function to categorize <span style="font-family:monospace;background-color:#E7E7E7">CPTU</span> data points according to the zone they plot in a few <span style="font-family:monospace;background-color:#E7E7E7">SBT</span> charts.</blockquote>
+<p>
+<a href="https://erdirstats.github.io/04-sbt-charts.html" title="FULL ARTICLE" target="_blank">04 SOIL BEHAVIOUR TYPE CHARTS</a>
+<br>
+<code>2022-03-15</code>
+</p> 
+<blockquote>
+It can be useful sometimes to create an idea on how the <code>CPTU</code> measurement points of a particular site or soil unit are distributed among different <code>SBT</code> (Soil Behavior Type) zones. I wrote a small function to categorize <code>CPTU</code> data points according to the zone they plot in a few <code>SBT</code> charts.
+</blockquote>
 
 <br>
 
