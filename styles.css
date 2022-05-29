@@ -42,9 +42,7 @@ code {
 
 a {
   font-family: 'Fira Code', monospace;
-  outline: none;
-  text-decoration: none;
-  padding: 2px 1px 0;
+  padding: 2px 2px 0;
 }
 
 a:link {
