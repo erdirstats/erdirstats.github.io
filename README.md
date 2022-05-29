@@ -11,12 +11,12 @@
 <!-- General info -->
 <body>
 
-<h1>WELCOME!</h1>
+<pri>WELCOME!</pri>
 
 <p></p>
 
 <p>
-<h4>INTRO</h4>
+<sec>INTRO</sec>
 <br>
 Here I publish some long and/or short blog posts on geotechnics. This works very well for me as a way to document stuff but I also hope the content can be useful to other readers too. Posts mostly include application of data science, machine learning and data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can also show up. Sometimes the code is included along the main text and sometimes it isn't. The work has been almost exclusively done with 
 <a href="https://www.r-project.org/" title = "R WEBPAGE" target="_blank">R</a>
@@ -32,7 +32,7 @@ These articles represent my opinion on the material they cover and not the views
 </p>
 
 <p>
-<h4>LICENSE</h4>
+<sec>LICENSE</sec>
 <br>
 The work licensed under a Creative Commons Attribution-NonCommercial 4.0 International License 
 <a href="https://creativecommons.org/licenses/by-nc/4.0/" title="creativecommons.org" target="_blank">CC BY-NC 4.0</a>
@@ -41,7 +41,7 @@ The work licensed under a Creative Commons Attribution-NonCommercial 4.0 Interna
 
 <!-- Main content -->
 
-<h1>CONTENT</h1>
+<pri>CONTENT</pri>
 
 <p></p>
 
