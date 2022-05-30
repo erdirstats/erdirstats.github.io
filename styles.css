@@ -24,6 +24,7 @@ blockquote {
     padding: 25px;
     background-color: #FFFFFF;
     border-left: 5px solid;
+    font-style: normal;
 }
 
 code {
@@ -53,22 +54,31 @@ a {
 }
 
 a:link {
-  color: #265301;
+  color: #5D69B1;
 }
 
 a:visited {
-  color: #437A16;
+  color: #374649;
 }
 
 a:focus {
-  background: #BAE498;
+  background: #5D69B1;
+  color: #FFFFFF;
+  border-bottom: 0px solid;
+  font-weight: 900;
 }
 
 a:hover {
-  background: #CDFEAA;
+  background: #5D69B1;
+  color: #FFFFFF;
+  border-bottom: 0px solid;
+  font-weight: 900;
+  text-decoration: none;
 }
 
 a:active {
-  background: #265301;
-  color: #CDFEAA;
+  background: #5D69B1;
+  color: #FFFFFF;
+  border-bottom: 0px solid;
+  font-weight: 900;
 }
