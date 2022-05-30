@@ -22,15 +22,16 @@ body {
 blockquote {
     font-family: 'Roboto', sans-serif;
     padding: 25px;
-    background: #FFFFFF;
+    background-color: #FFFFFF;
 }
 
 code {
     font-family: 'Fira Code', monospace;
+    font-weight: 900;
     background-color: #EEEEEE;
     color: #0E0E0E;
     padding: 0 5px;
-    font-style: normal;
+    border-radius: 0px;
 }
 
 sec {
