@@ -1,5 +1,5 @@
 h1 {
-    font-family: monospace;
+    font-family: 'Fira Code', monospace;
     font-weight: 900;
     color: #0E0E0E;
 }
@@ -8,7 +8,7 @@ p {
     font-family: 'Roboto', sans-serif;
     background-color: #FFFFFF;
     color: #0E0E0E;
-    padding: 0 5px;
+    line-height: 1.75;
 }
 
 body {
@@ -16,7 +16,9 @@ body {
     background-color: #FFFFFF;
     color: #0E0E0E;
     /*font-size: 0.825em;*/
-    padding: 0 5px;
+    line-height: 1.75;
+    line-break: normal;
+    text-align: justify;
 }
 
 blockquote {
