@@ -1,6 +1,6 @@
 h1 {
     font-family: 'Fira Code', monospace;
-    font-weight: 900;
+    font-weight: 700;
     color: #0E0E0E;
 }
 
@@ -9,6 +9,7 @@ p {
     background-color: #FFFFFF;
     color: #0E0E0E;
     line-height: 1.75;
+    margin: 50px 0 10px 0;
 }
 
 body {
@@ -25,6 +26,7 @@ blockquote {
     background-color: #FFFFFF;
     border-left: 1px solid;
     font-style: normal;
+    margin: 0 0 0 0;
 }
 
 code {
@@ -59,13 +61,13 @@ a:visited {
 a:focus {
   background: #EEEEEE;
   color: #0E0E0E;
-  font-weight: 900;
+  font-weight: 700;
 }
 
 a:hover {
   background: #EEEEEE;
   color: #0E0E0E;
-  font-weight: 900;
+  font-weight: 700;
   text-decoration: none;
   border: 1px solid;
 }
@@ -73,5 +75,5 @@ a:hover {
 a:active {
   background: #EEEEEE;
   color: #0E0E0E;
-  font-weight: 900;
+  font-weight: 700;
 }
