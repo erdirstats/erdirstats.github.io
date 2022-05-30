@@ -54,31 +54,29 @@ a {
 }
 
 a:link {
-  color: #5D69B1;
+  color: #0E0E0E;
 }
 
 a:visited {
-  color: #374649;
+  color: #0E0E0E;
 }
 
 a:focus {
-  background: #5D69B1;
-  color: #FFFFFF;
-  border-bottom: 0px solid;
+  background: #EEEEEE;
+  color: #0E0E0E;
   font-weight: 900;
 }
 
 a:hover {
-  background: #5D69B1;
-  color: #FFFFFF;
-  border-bottom: 0px solid;
+  background: #EEEEEE;
+  color: #0E0E0E;
   font-weight: 900;
   text-decoration: none;
+  border-top: 1px solid;
 }
 
 a:active {
-  background: #5D69B1;
-  color: #FFFFFF;
-  border-bottom: 0px solid;
+  background: #EEEEEE;
+  color: #0E0E0E;
   font-weight: 900;
 }
