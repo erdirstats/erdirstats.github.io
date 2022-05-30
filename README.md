@@ -11,7 +11,7 @@
 <!-- General info -->
 <body>
 
-<pri>WELCOME!</pri>
+<h1>WELCOME!</h1>
 
 <p></p>
 
@@ -41,7 +41,7 @@ The work licensed under a Creative Commons Attribution-NonCommercial 4.0 Interna
 
 <!-- Main content -->
 
-<pri>CONTENT</pri>
+<h1>CONTENT</h1>
 
 <p></p>
 

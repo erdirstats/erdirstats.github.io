@@ -40,16 +40,6 @@ code {
     font-style: normal;
 }
 
-pri {
-    font-family: 'Fira Code', monospace;
-    font-weight: 900;
-    font-size: 32px;
-    background-color: #EEEEEE;
-    color: #0E0E0E;
-    padding: 0 5px;
-    font-style: normal;
-}
-
 sec {
     font-family: 'Fira Code', monospace;
     font-weight: 900;
