@@ -2,6 +2,10 @@ h1 {
     font-family: 'Fira Code', monospace;
     font-weight: 700;
     color: #0E0E0E;
+    margin: 50px 0 50px 0;
+    font-size: 1.5em;
+    border-bottom: 5px solid;
+    padding: 5px;
 }
 
 p {
@@ -24,7 +28,7 @@ blockquote {
     font-family: 'Roboto', sans-serif;
     padding: 25px;
     background-color: #FFFFFF;
-    border-left: 1px solid;
+    border-left: 0px solid;
     font-style: normal;
     margin: 0 0 0 0;
 }
