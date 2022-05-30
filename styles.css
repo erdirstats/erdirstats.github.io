@@ -23,28 +23,23 @@ blockquote {
     font-family: 'Roboto', sans-serif;
     padding: 25px;
     background-color: #FFFFFF;
-    border-left: 5px solid;
+    border-left: 1px solid;
     font-style: normal;
 }
 
 code {
     font-family: 'Fira Code', monospace;
-    font-weight: 900;
     background-color: #EEEEEE;
     color: #0E0E0E;
-    padding: 0 5px;
+    padding: 2px 2px;
     border-radius: 0px;
-    font-style: normal;
 }
 
 sec {
     font-family: 'Fira Code', monospace;
-    font-weight: 900;
-    font-size: 16px;
     background-color: #EEEEEE;
     color: #0E0E0E;
-    padding: 0 5px;
-    font-style: normal;
+    padding: 2px 2px;
 }
 
 a {
@@ -72,7 +67,7 @@ a:hover {
   color: #0E0E0E;
   font-weight: 900;
   text-decoration: none;
-  border-top: 1px solid;
+  border: 1px solid;
 }
 
 a:active {
