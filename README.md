@@ -10,6 +10,8 @@
 
 <!-- Main content -->
 
+<body>
+  
 <h1>CONTENT</h1>
 
 <p></p>
