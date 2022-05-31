@@ -2,7 +2,8 @@ h1 {
     font-family: 'Fira Code', monospace;
     color: #0E0E0E;
     margin: 35px 0 5px 0;
-    font-size: 1.15rem;
+    font-size: 1rem;
+    font-weight: normal;
 }
 
 p {
