@@ -5,14 +5,14 @@ description: >
     Erdi Myftaraga: geotechnical engineer at Green Geotechnics, based in Tirana and working in marine geotechnics projects.</p>
     <p style="line-height: 1.5; font-size: 0.75rem; margin: 15px 0 5px 0;">
     <sec>INTRO</sec>
-    I hope the content of these short/long blog posts can be useful to someone. Posts mostly include application of data science, machine learning and 
-    data visualization concepts in geotechnical engineering, with focus on geotechnical site assessment. Other topics can also show up. 
+    Posts mostly include application of data science, machine learning and data visualization concepts in geotechnics,
+    with focus on geotechnical site assessment. Other topics can also show up. 
     Sometimes the code is included along the main text and sometimes it isn't. The work has been almost exclusively done with 
     <a href="https://www.r-project.org/" title="R WEBPAGE" target="_blank">R</a> code.</p>
     <p style="line-height: 1.5; font-size: 0.75rem; margin: 15px 0 5px 0;">
     <sec>NOTE</sec>
-    These articles represent my opinion on the material they cover and not the views of my employer, obviously. 
-    The content comes with absolutely no warranty. Use at your own risk.</p>
+    The content, obviously, represent my personal opinion and not the views of my employer 
+    and it comes with absolutely no warranty. Use at your own risk.</p>
     <p style="line-height: 1.5; font-size: 0.75rem; margin: 15px 0 5px 0;">
     <sec>LICENSE</sec>
     The work licensed under a Creative Commons Attribution-NonCommercial 4.0 International License 
