@@ -5,10 +5,10 @@ description: >
     Erdi Myftaraga: geotechnical engineer at Green Geotechnics, based in Tirana and working in marine geotechnics projects.</p>
     <p style="line-height: 1.5; font-size: 0.75rem; margin: 15px 0 5px 0;">
     <sec>INTRO</sec>
-    Posts mostly include application of data science, machine learning and data visualization concepts in geotechnics,
+    Posts mostly include application of data science, machine learning and data viz concepts in geotechnics,
     with focus on geotechnical site assessment. Other topics can also show up. 
     Sometimes the code is included along the main text and sometimes it isn't. The work has been almost exclusively done with 
-    <a href="https://www.r-project.org/" title="R WEBPAGE" target="_blank">R</a> code.</p>
+    <a href="https://www.r-project.org/" title="Go to: R WEBPAGE" target="_blank">R</a> code.</p>
     <p style="line-height: 1.5; font-size: 0.75rem; margin: 15px 0 5px 0;">
     <sec>NOTE</sec>
     The content, obviously, represent my personal opinion and not the views of my employer 
@@ -16,7 +16,7 @@ description: >
     <p style="line-height: 1.5; font-size: 0.75rem; margin: 15px 0 5px 0;">
     <sec>LICENSE</sec>
     The work licensed under a Creative Commons Attribution-NonCommercial 4.0 International License 
-    <a href="https://creativecommons.org/licenses/by-nc/4.0/" title="creativecommons.org" target="_blank">CC BY-NC 4.0</a>.
+    <a href="https://creativecommons.org/licenses/by-nc/4.0/" title="Go to: CREATIVECOMMONS.ORG" target="_blank">CC BY-NC 4.0</a>.
     </p>
 theme: jekyll-theme-minimal
 github:
