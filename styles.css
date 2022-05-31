@@ -7,7 +7,7 @@ h1 {
 }
 
 p {
-    font-family: 'Crimson Text', serif;
+    font-family: 'Crimson Pro', serif;
     background-color: #FFFFFF;
     color: #0E0E0E;
     line-height: 1.75;
@@ -15,10 +15,10 @@ p {
 }
 
 body {
-    font-family: 'Crimson Text', serif;
+    font-family: 'Crimson Pro', serif;
     background-color: #FFFFFF;
     color: #0E0E0E;
-    /*font-size: 0.825em;*/
+    font-size: 1.25em;
     line-height: 1.75;
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 blockquote {
-    font-family: 'Crimson Text', serif;
+    font-family: 'Crimson Pro', serif;
     padding: 25px;
     background-color: #FFFFFF;
     border-left: 0px solid;
