@@ -10,7 +10,7 @@ p {
     font-family: 'Roboto', sans-serif;
     background-color: #FFFFFF;
     color: #0E0E0E;
-    line-height: 1.75;
+    line-height: 1.5;
     margin: 25px 0 5px 0;
 }
 
@@ -18,7 +18,7 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: #FFFFFF;
     color: #0E0E0E;
-    font-size: 1.15em;
+    font-size: 1.0em;
     line-height: 1.5;
 }
 
