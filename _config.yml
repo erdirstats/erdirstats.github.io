@@ -1,6 +1,6 @@
 title:
 description: >
-    <p style="font-weight:normal;color:#2F2F2F">Geotechnical engineer at Green Geotechnics, based in Tirana and working in marine geotechnics projects.</p>
+    <p>Geotechnical engineer at Green Geotechnics, based in Tirana and working in marine geotechnics projects.</p>
     <p>
     <sec>INTRO</sec>
     <br>
@@ -17,8 +17,7 @@ description: >
     <sec>LICENSE</sec>
     <br>
     The work licensed under a Creative Commons Attribution-NonCommercial 4.0 International License 
-    <a href="https://creativecommons.org/licenses/by-nc/4.0/" title="creativecommons.org" target="_blank">CC BY-NC 4.0</a>.
-    </p>
+    <a href="https://creativecommons.org/licenses/by-nc/4.0/" title="creativecommons.org" target="_blank">CC BY-NC 4.0</a>.</p>
 theme: jekyll-theme-minimal
 github:
     is\_project\_page:false
