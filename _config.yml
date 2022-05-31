@@ -1,6 +1,5 @@
 title:
 description: >
-<body>
     <p>
     <sec>BIO</sec>
     <br>
@@ -21,8 +20,8 @@ description: >
     <sec>LICENSE</sec>
     <br>
     The work licensed under a Creative Commons Attribution-NonCommercial 4.0 International License 
-    <a href="https://creativecommons.org/licenses/by-nc/4.0/" title="creativecommons.org" target="_blank">CC BY-NC 4.0</a>.</p>
-    </body>
+    <a href="https://creativecommons.org/licenses/by-nc/4.0/" title="creativecommons.org" target="_blank">CC BY-NC 4.0</a>.
+    </p>
 theme: jekyll-theme-minimal
 github:
     is\_project\_page:false
