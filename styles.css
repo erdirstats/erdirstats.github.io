@@ -22,6 +22,11 @@ body {
     line-height: 1.75;
 }
 
+body::selection {
+  color: #FFFFFF;
+  background: #0E0E0E;
+}
+
 blockquote {
     font-family: 'Roboto', sans-serif;
     padding: 25px;
