@@ -17,7 +17,7 @@
 <!-- 04 -->
 
 <p><a href="https://erdirstats.github.io/04-sbt-charts.html" title="FULL ARTICLE" target="_blank">04 SOIL BEHAVIOUR TYPE CHARTS</a>
-<br>2022-03-15</p>
+  <br><code>2022-03-15</code></p>
 <p style="margin: 10px 0 10px 0;">It can be useful sometimes to create an idea on how the <code>CPTU</code> measurement points of a particular site or soil unit are distributed among different <code>SBT</code> (Soil Behavior Type) zones. I wrote a small function to categorize <code>CPTU</code> data points according to the zone they plot in a few <code>SBT</code> charts.</p>
 
 <!-- 03 -->
