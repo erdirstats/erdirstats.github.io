@@ -1,5 +1,5 @@
 h1 {
-    font-family: 'Fira Code', monospace;
+    font-family: 'Fira Mono', monospace;
     color: #0E0E0E;
     margin: 35px 0 5px 0;
     font-size: 1rem;
@@ -35,7 +35,7 @@ blockquote {
 }
 
 code {
-    font-family: 'Fira Code', monospace;
+    font-family: 'Fira Mono', monospace;
     background-color: #EEEEEE;
     color: #0E0E0E;
     padding: 2px 2px;
@@ -43,14 +43,14 @@ code {
 }
 
 sec {
-    font-family: 'Fira Code', monospace;
+    font-family: 'Fira Mono', monospace;
     background-color: #EEEEEE;
     color: #0E0E0E;
     padding: 2px 2px;
 }
 
 a {
-  font-family: 'Fira Code', monospace;
+  font-family: 'Fira Mono', monospace;
   padding: 2px 2px 0;
   border-bottom: 1px solid;
 }
