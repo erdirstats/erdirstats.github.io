@@ -53,6 +53,7 @@ a {
   font-family: 'Fira Mono', monospace;
   padding: 2px 2px 0;
   border-bottom: 1px solid;
+  background: #EEEEEE;
 }
 
 a:link {
