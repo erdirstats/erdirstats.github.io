@@ -1,24 +1,7 @@
 h1 {
     font-family: 'Fira Mono', monospace;
-    color: #0E0E0E;
-    margin: 35px 0 5px 0;
-    font-size: 1rem;
-    font-weight: normal;
-}
-
-p {
-    font-family: 'Roboto', sans-serif;
-    background-color: #FFFFFF;
-    color: #0E0E0E;
-    line-height: 1.5;
-    margin: 35px 0 5px 0;
-}
-
-body {
-    font-family: 'Roboto', sans-serif;
-    background-color: #FFFFFF;
-    color: #0E0E0E;
-    line-height: 1.5;
+    color: #171717;
+    font-weight: 700;
 }
 
 ::selection {
@@ -26,37 +9,22 @@ body {
   background: #0E0E0E;
 }
 
-blockquote {
-    font-family: 'Roboto', sans-serif;
-    padding: 25px;
-    background-color: #FFFFFF;
-    border-left: 0px solid;
-    font-style: normal;
-}
-
 code {
-    font-family: 'Fira Mono', monospace;
+    font-family: 'Fira Code', monospace;
     background-color: #EEEEEE;
     color: #0E0E0E;
     padding: 2px 2px;
-    border-radius: 0px;
-}
-
-sec {
-    font-family: 'Fira Mono', monospace;
-    background-color: #EEEEEE;
-    color: #0E0E0E;
-    padding: 2px 2px;
+    border-radius: 6px;
 }
 
 a {
   font-family: 'Fira Mono', monospace;
-  padding: 2px 2px 0;
+  padding: 2px 0;
   border-bottom: 1px solid;
-  background: #EEEEEE;
 }
 
 a:link {
+  background: #EEEEEE;
   color: #0E0E0E;
 }
 
@@ -71,9 +39,8 @@ a:focus {
 }
 
 a:hover {
-  background: #EEEEEE;
-  color: #0E0E0E;
-  font-weight: 700;
+  background: #0E0E0E;
+  color: #EEEEEE;
   text-decoration: none;
   border: 1px solid;
 }
