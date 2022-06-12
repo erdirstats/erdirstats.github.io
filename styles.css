@@ -53,6 +53,7 @@ a {
   font-family: 'Fira Mono', monospace;
   padding: 2px 2px 0;
   border-bottom: 1px solid;
+  line-height: 1.5;
 }
 
 a:link {
@@ -67,8 +68,10 @@ a:visited {
 }
 
 a:focus {
-  background: #EEEEEE;
-  color: #0E0E0E;
+  background: #0E0E0E;
+  color: #EEEEEE;
+  text-decoration: none;
+  border-bottom: 0px;
 }
 
 a:hover {
@@ -76,9 +79,12 @@ a:hover {
   color: #EEEEEE;
   text-decoration: none;
   border-bottom: 0px;
+  font-weight: 400;
 }
 
 a:active {
-  background: #EEEEEE;
-  color: #0E0E0E;
+  background: #0E0E0E;
+  color: #EEEEEE;
+  text-decoration: none;
+  border-bottom: 0px;
 }
