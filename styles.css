@@ -33,9 +33,10 @@ a:visited {
 }
 
 a:focus {
-  background: #EEEEEE;
-  color: #0E0E0E;
-  font-weight: 700;
+  background: #0E0E0E;
+  color: #EEEEEE;
+  text-decoration: none;
+  border: 1px solid;
 }
 
 a:hover {
@@ -46,7 +47,8 @@ a:hover {
 }
 
 a:active {
-  background: #EEEEEE;
-  color: #0E0E0E;
-  font-weight: 700;
+  background: #0E0E0E;
+  color: #EEEEEE;
+  text-decoration: none;
+  border: 1px solid;
 }
