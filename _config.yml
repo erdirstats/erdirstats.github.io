@@ -2,16 +2,16 @@ title:
 description: >
     <p style="line-height: 1.5; font-size: 0.75rem; margin: 15px 0 5px 0;">
     <sec>BIO</sec>
-    Erdi Myftaraga: geotechnical engineer at Green Geotechnics, based in Tirana and working in marine geotechnics projects.</p>
+    Erdi Myftaraga: geotechnical engineer at NGI, based in Oslo and working in marine geotechnics projects.</p>
     <p style="line-height: 1.5; font-size: 0.75rem; margin: 15px 0 5px 0;">
     <sec>INTRO</sec>
     Posts mostly include application of data science, machine learning and data viz concepts in geotechnics,
-    with focus on geotechnical site assessment. Other topics can also show up. 
-    Sometimes the code is included along the main text and sometimes it isn't. The work has been almost exclusively done with 
+    with focus on geotechnical site assessment. Other topics might also show up. 
+    Sometimes the code is included along the main text and sometimes it isn't. The work is almost exclusively done with 
     <a href="https://www.r-project.org/" title="Go to: R-PROJECT-ORG" target="_blank">R</a> code.</p>
     <p style="line-height: 1.5; font-size: 0.75rem; margin: 15px 0 5px 0;">
     <sec>NOTE</sec>
-    The content, obviously, represent my personal opinion and not the views of my employer 
+    The content (obviously) represent my personal opinion and not the views of my employer 
     and it comes with absolutely no warranty. Use at your own risk.</p>
     <p style="line-height: 1.5; font-size: 0.75rem; margin: 15px 0 5px 0;">
     <sec>LICENSE</sec>
